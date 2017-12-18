@@ -40,7 +40,7 @@ i18n
       es: {
         home: {
           title: 'Bienvenido',
-          introduction: 'Este es un texto en español Mexicano traducido en i18next by Edgarngg'
+          introduction: 'Este es un texto en español Mexicano traducido en i18next por Edgarngg'
         },
         page2: {
           title: 'Página 2',
